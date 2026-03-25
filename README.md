@@ -33,3 +33,8 @@ This repository contains the complete QA assessment for Trumio including:
 ```bash
 npm install
 npx playwright test
+
+## Show Report
+npx playwright show-report
+
+
